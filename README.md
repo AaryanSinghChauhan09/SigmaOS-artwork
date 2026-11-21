@@ -1,4 +1,4 @@
-# SigmaOS-mint-artwork
+# SigmaOS-artwork
 
 Mint artwork and visuals for SigmaOS
 

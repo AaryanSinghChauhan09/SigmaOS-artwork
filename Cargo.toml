@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-mint-artwork"
+name = "sigmaos-artwork"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS mint-artwork component"
+description = "SigmaOS artwork component"
 
 [lib]
-name = "mint_artwork"
+name = "sigmaos_artwork"
 path = "src/lib.rs"

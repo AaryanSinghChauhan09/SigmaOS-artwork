@@ -1,8 +1,8 @@
-// Integration test for SigmaOS-mint-artwork
+// Integration test for SigmaOS-artwork
 // Verifies the crate builds and links as a dependency.
 #![allow(unused_imports)]
 
-use mint_artwork as _;
+use sigmaos_artwork as _;
 
 #[test]
 fn crate_links_and_runs() {

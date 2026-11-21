@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "SigmaOS-mint-artwork"
+name = "sigmaos-artwork"
 version = "0.1.0"
